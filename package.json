@@ -1,0 +1,21 @@
+{
+  "name": "bulk-files",
+  "version": "1.0.0",
+  "description": "A CLI tool for easily manage a lot of files quickly.",
+  "main": "index.js",
+  "repository": "https://github.com/mrlulu51/bulk-files",
+  "author": "mrlulu51",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "^11.1.0",
+    "conf": "^12.0.0",
+    "figlet": "^1.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
